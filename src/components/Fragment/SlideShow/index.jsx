@@ -31,28 +31,28 @@ function One() {
       title: "Sejuknya Persaudaraan Tegalrejo.",
       description:
         "Tegalrejo dikenal dengan udara sejuk dan masyarakat yang menjunjung tinggi persaudaraan, menciptakan lingkungan yang nyaman dan penuh kedamaian.",
-      image: "../../../public/people4.png",
+      image: "/people4.png",
     },
     {
       id: 2,
       title: "Harmoni Kehidupan Tegalrejo.",
       description:
         "Kehidupan di Tegalrejo berjalan harmonis, dengan alam yang asri dan masyarakat yang saling menghormati, menjadikan dusun ini tempat yang damai.",
-      image: "../../../public/mrMuji.png",
+      image: "/mrMuji.png",
     },
     {
       id: 3,
       title: "Kehangatan di Tengah Sejuknya Tegalrejo ",
       description:
         "Di balik sejuknya udara Tegalrejo, terdapat kehangatan dalam interaksi masyarakatnya yang selalu saling membantu dan menjaga kebersamaan.",
-      image: "../../../public/mrRamlan.png",
+      image: "/mrRamlan.png",
     },
     {
       id: 4,
       title: "Tegalrejo Ramah dan Bersahabat",
       description:
         "Tegalrejo adalah dusun yang dikenal dengan keramahan warganya, menciptakan lingkungan yang bersahabat dan menyambut setiap pendatang dengan tangan terbuka.",
-      image: "../../../public/people6.png",
+      image: "/people6.png",
     },
   ];
 
