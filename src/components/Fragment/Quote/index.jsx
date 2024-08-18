@@ -30,7 +30,7 @@ function One() {
           data-aos-delay="500"
           data-aos-once="true"
         >
-          <Image iLink="public/people.png" />
+          <Image iLink="/people.png" />
         </div>
       </div>
     </>
@@ -48,7 +48,7 @@ function Two() {
           data-aos-delay="0"
           data-aos-once="true"
         >
-          <Image iLink="public/people2.png" />
+          <Image iLink="/people2.png" />
         </div>
         <div
           className="col col-2"

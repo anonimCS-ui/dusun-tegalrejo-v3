@@ -15,7 +15,7 @@ const Main = function () {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -52,19 +52,19 @@ const VolleyBall = () => {
   const images = [
     {
       id: 1,
-      url: "public/voli.jpg",
+      url: "/voli.jpg",
     },
     {
       id: 2,
-      url: "public/voli2.jpg",
+      url: "/voli2.jpg",
     },
     {
       id: 3,
-      url: "public/voli3.jpg",
+      url: "/voli3.jpg",
     },
     {
       id: 4,
-      url: "public/voli4.jpg",
+      url: "/voli4.jpg",
     },
   ];
 
@@ -73,7 +73,7 @@ const VolleyBall = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -90,7 +90,7 @@ const VolleyBall = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/voli0.jpg" />
+            <Image iLink="/voli0.jpg" />
           </span>
           <Heading.Two title="Bermain Bola Voli" />
           <span
@@ -128,19 +128,19 @@ const DoingTPA = () => {
   const images = [
     {
       id: 1,
-      url: "public/tpa.jpg",
+      url: "/tpa.jpg",
     },
     {
       id: 2,
-      url: "public/tpa2.jpg",
+      url: "/tpa2.jpg",
     },
     {
       id: 3,
-      url: "public/tpa3.jpg",
+      url: "/tpa3.jpg",
     },
     {
       id: 4,
-      url: "public/tpa4.jpg",
+      url: "/tpa4.jpg",
     },
   ];
 
@@ -149,7 +149,7 @@ const DoingTPA = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -166,7 +166,7 @@ const DoingTPA = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/tpa0.jpg" />
+            <Image iLink="/tpa0.jpg" />
           </span>
           <Heading.Two title="Pelaksanaan TPA" />
           <span
@@ -204,19 +204,19 @@ const GatheringPKK = () => {
   const images = [
     {
       id: 1,
-      url: "public/pkk.jpg",
+      url: "/pkk.jpg",
     },
     {
       id: 2,
-      url: "public/pkk3.jpg",
+      url: "/pkk3.jpg",
     },
     {
       id: 3,
-      url: "public/pkk2.jpg",
+      url: "/pkk2.jpg",
     },
     {
       id: 4,
-      url: "public/pkk4.jpg",
+      url: "/pkk4.jpg",
     },
   ];
 
@@ -225,7 +225,7 @@ const GatheringPKK = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -242,7 +242,7 @@ const GatheringPKK = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/pkk0.jpg" />
+            <Image iLink="/pkk0.jpg" />
           </span>
           <Heading.Two title="Kumpulan PKK" />
           <span
@@ -281,19 +281,19 @@ const GatheringRT = () => {
   const images = [
     {
       id: 1,
-      url: "public/kumpulan-rt.jpg",
+      url: "/kumpulan-rt.jpg",
     },
     {
       id: 2,
-      url: "public/kumpulan-rt2.jpg",
+      url: "/kumpulan-rt2.jpg",
     },
     {
       id: 3,
-      url: "public/kumpulan-rt3.jpg",
+      url: "/kumpulan-rt3.jpg",
     },
     {
       id: 4,
-      url: "public/kumpulan-rt4.jpg",
+      url: "/kumpulan-rt4.jpg",
     },
   ];
 
@@ -302,7 +302,7 @@ const GatheringRT = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -319,7 +319,7 @@ const GatheringRT = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/kumpulan-rt0.jpg" />
+            <Image iLink="/kumpulan-rt0.jpg" />
           </span>
           <Heading.Two title="Kumpulan RT" />
           <span
@@ -358,19 +358,19 @@ const GatheringYoungest = () => {
   const images = [
     {
       id: 1,
-      url: "public/pemudadi.jpg",
+      url: "/pemudadi.jpg",
     },
     {
       id: 2,
-      url: "public/pemudadi2.jpg",
+      url: "/pemudadi2.jpg",
     },
     {
       id: 3,
-      url: "public/pemudadi3.jpg",
+      url: "/pemudadi3.jpg",
     },
     {
       id: 4,
-      url: "public/pemudadi4.jpg",
+      url: "/pemudadi4.jpg",
     },
   ];
 
@@ -379,7 +379,7 @@ const GatheringYoungest = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -396,7 +396,7 @@ const GatheringYoungest = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/blank.jpg" />
+            <Image iLink="/blank.jpg" />
           </span>
           <Heading.Two title="Kumpulan Pemuda-Pemudi" />
           <span
@@ -434,19 +434,19 @@ const Gymnastics = () => {
   const images = [
     {
       id: 1,
-      url: "public/senam.jpg",
+      url: "/senam.jpg",
     },
     {
       id: 2,
-      url: "public/senam3.jpg",
+      url: "/senam3.jpg",
     },
     {
       id: 3,
-      url: "public/senam2.jpg",
+      url: "/senam2.jpg",
     },
     {
       id: 4,
-      url: "public/senam4.jpg",
+      url: "/senam4.jpg",
     },
   ];
 
@@ -455,7 +455,7 @@ const Gymnastics = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -472,7 +472,7 @@ const Gymnastics = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/senam0.jpg" />
+            <Image iLink="/senam0.jpg" />
           </span>
           <Heading.Two title="Senam Bersama" />
           <span
@@ -511,19 +511,19 @@ const Posyandu = () => {
   const images = [
     {
       id: 1,
-      url: "public/posyandu.jpg",
+      url: "/posyandu.jpg",
     },
     {
       id: 2,
-      url: "public/posyandu2.jpg",
+      url: "/posyandu2.jpg",
     },
     {
       id: 3,
-      url: "public/posyandu3.jpg",
+      url: "/posyandu3.jpg",
     },
     {
       id: 4,
-      url: "public/posyandu4.jpg",
+      url: "/posyandu4.jpg",
     },
   ];
 
@@ -532,7 +532,7 @@ const Posyandu = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -549,7 +549,7 @@ const Posyandu = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/posyandu0.jpg" />
+            <Image iLink="/posyandu0.jpg" />
           </span>
           <Heading.Two title="Posyandu" />
           <span
@@ -587,19 +587,19 @@ const Dasawisma = () => {
   const images = [
     {
       id: 1,
-      url: "public/dasawisma.jpg",
+      url: "/dasawisma.jpg",
     },
     {
       id: 2,
-      url: "public/dasawisma3.jpg",
+      url: "/dasawisma3.jpg",
     },
     {
       id: 3,
-      url: "public/dasawisma2.jpg",
+      url: "/dasawisma2.jpg",
     },
     {
       id: 4,
-      url: "public/dasawisma4.jpg",
+      url: "/dasawisma4.jpg",
     },
   ];
 
@@ -608,7 +608,7 @@ const Dasawisma = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -625,7 +625,7 @@ const Dasawisma = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/dasawisma0.jpg" />
+            <Image iLink="/dasawisma0.jpg" />
           </span>
           <Heading.Two title="Dasawisma" />
           <span
@@ -665,19 +665,19 @@ const KerjaBakti = () => {
   const images = [
     {
       id: 1,
-      url: "public/kerjabakti.jpg",
+      url: "/kerjabakti.jpg",
     },
     {
       id: 2,
-      url: "public/kerjabakti2.jpg",
+      url: "/kerjabakti2.jpg",
     },
     {
       id: 3,
-      url: "public/kerjabakti3.jpg",
+      url: "/kerjabakti3.jpg",
     },
     {
       id: 4,
-      url: "public/kerjabakti4.jpg",
+      url: "/kerjabakti4.jpg",
     },
   ];
 
@@ -686,7 +686,7 @@ const KerjaBakti = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -703,7 +703,7 @@ const KerjaBakti = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/kerjabakti0.jpg" />
+            <Image iLink="/kerjabakti0.jpg" />
           </span>
           <Heading.Two title="Kerja Bakti" />
           <span
@@ -741,19 +741,19 @@ const Lomba17Agustus = () => {
   const images = [
     {
       id: 1,
-      url: "public/17.jpg",
+      url: "/17.jpg",
     },
     {
       id: 2,
-      url: "public/173.jpg",
+      url: "/173.jpg",
     },
     {
       id: 3,
-      url: "public/174.jpg",
+      url: "/174.jpg",
     },
     {
       id: 4,
-      url: "public/172.jpg",
+      url: "/172.jpg",
     },
   ];
 
@@ -762,7 +762,7 @@ const Lomba17Agustus = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -779,7 +779,7 @@ const Lomba17Agustus = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/170.jpg" />
+            <Image iLink="/170.jpg" />
           </span>
           <Heading.Two title="Lomba 17 Agustus" />
           <span
@@ -822,19 +822,19 @@ const Tirakatan = () => {
   const images = [
     {
       id: 1,
-      url: "public/tirakatan.jpg",
+      url: "/tirakatan.jpg",
     },
     {
       id: 2,
-      url: "public/tirakatan2.jpg",
+      url: "/tirakatan2.jpg",
     },
     {
       id: 3,
-      url: "public/tirakatan3.jpg",
+      url: "/tirakatan3.jpg",
     },
     {
       id: 4,
-      url: "public/tirakatan4.jpg",
+      url: "/tirakatan4.jpg",
     },
   ];
 
@@ -843,7 +843,7 @@ const Tirakatan = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -860,7 +860,7 @@ const Tirakatan = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/tirakatan0.jpg" />
+            <Image iLink="/tirakatan0.jpg" />
           </span>
           <Heading.Two title="Malam Tirakatan" />
           <span
@@ -898,19 +898,19 @@ const Karawitan = () => {
   const images = [
     {
       id: 1,
-      url: "public/karawitan2.jpg",
+      url: "/karawitan2.jpg",
     },
     {
       id: 2,
-      url: "public/karawitan3.jpg",
+      url: "/karawitan3.jpg",
     },
     {
       id: 3,
-      url: "public/karawitan4.jpg",
+      url: "/karawitan4.jpg",
     },
     {
       id: 4,
-      url: "public/karawitan5.jpg",
+      url: "/karawitan5.jpg",
     },
   ];
 
@@ -919,7 +919,7 @@ const Karawitan = () => {
       <Header />
       <section id="activity" className="activity">
         <div className="item item-1">
-          <Image iLink="public/rt12Gang.png" />
+          <Image iLink="/rt12Gang.png" />
         </div>
         <div
           className="item item-2"
@@ -936,7 +936,7 @@ const Karawitan = () => {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/karawitan.jpg" />
+            <Image iLink="/karawitan.jpg" />
           </span>
           <Heading.Two title="Malam Tirakatan" />
           <span

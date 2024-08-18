@@ -6,42 +6,42 @@ const SocialType = function () {
   const data = [
     {
       id: 1,
-      image: "public/st.png",
+      image: "/st.png",
       name: "Petani/Perkebunan",
     },
     {
       id: 2,
-      image: "public/st3.png",
+      image: "/st3.png",
       name: "Pedagang",
     },
     {
       id: 3,
-      image: "public/st4.png",
+      image: "/st4.png",
       name: "Pegawai Negeri",
     },
     {
       id: 4,
-      image: "public/st2.png",
+      image: "/st2.png",
       name: "Buruh Harian",
     },
     {
       id: 5,
-      image: "public/st5.png",
+      image: "/st5.png",
       name: "Wiraswasta",
     },
     {
       id: 6,
-      image: "public/st6.png",
+      image: "/st6.png",
       name: "Ibu Rumah Tangga",
     },
     {
       id: 7,
-      image: "public/st7.png",
+      image: "/st7.png",
       name: "Pelajar/Mahasiswa",
     },
     {
       id: 8,
-      image: "public/st8.png",
+      image: "/st8.png",
       name: "Pekerja Konstruksi",
     },
   ];

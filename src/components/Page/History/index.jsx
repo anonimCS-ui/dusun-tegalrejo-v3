@@ -9,19 +9,19 @@ function History() {
   const images = [
     {
       id: 1,
-      url: "public/kantor-lurah.jpg",
+      url: "/kantor-lurah.jpg",
     },
     {
       id: 2,
-      url: "public/masjid.jpg",
+      url: "/masjid.jpg",
     },
     {
       id: 3,
-      url: "public/balai-dusun.jpg",
+      url: "/balai-dusun.jpg",
     },
     {
       id: 4,
-      url: "public/balai-dusun-2.jpg",
+      url: "/balai-dusun-2.jpg",
     },
   ];
 
@@ -30,7 +30,7 @@ function History() {
       <Header />
       <section id="history" className="history">
         <div className="item item-1">
-          <Image iLink="public/people3.png" />
+          <Image iLink="/people3.png" />
         </div>
         <div className="item item-2">
           <Heading.Two title="Fasilitas Dusun Tegalrejo" />
@@ -51,7 +51,7 @@ function History() {
             </div>
           ))}
           <span>
-            <Image iLink="public/dusun3d.png" />
+            <Image iLink="/dusun3d.png" />
           </span>
         </div>
         <div className="item item-5">

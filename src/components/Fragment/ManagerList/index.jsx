@@ -16,7 +16,7 @@ function ManagerList() {
     {
       id: 1,
       classGroup: "row",
-      img: "public/manager.png",
+      img: "/manager.png",
       name: "Presiden RI",
       text: "Pasal 4 - 17 UUD 1945",
       moreText:
@@ -25,7 +25,7 @@ function ManagerList() {
     {
       id: 2,
       classGroup: "row row-reverse",
-      img: "public/manager2.png",
+      img: "/manager2.png",
       name: "Gubernur DIY",
       text: "Pasal 18 ayat (4) UUD 1945.",
       moreText:
@@ -34,7 +34,7 @@ function ManagerList() {
     {
       id: 3,
       classGroup: "row",
-      img: "public/manager3.png",
+      img: "/manager3.png",
       name: "Bupati Gunungkidul",
       text: "Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah.",
       moreText:
@@ -43,7 +43,7 @@ function ManagerList() {
     {
       id: 4,
       classGroup: "row row-reverse",
-      img: "public/manager4.png",
+      img: "/manager4.png",
       name: "Kepala Camat Gedangsari",
       text: "Peraturan Pemerintah Nomor 17 Tahun 2018 tentang Kecamatan.",
       moreText:
@@ -52,7 +52,7 @@ function ManagerList() {
     {
       id: 5,
       classGroup: "row",
-      img: "public/manager.png",
+      img: "/manager.png",
       name: "Kepala Lurah Gedangsari",
       text: "Peraturan Pemerintah Nomor 73 Tahun 2005 tentang Kelurahan.",
       moreText:
@@ -61,7 +61,7 @@ function ManagerList() {
     {
       id: 6,
       classGroup: "row row-reverse",
-      img: "public/manager2.png",
+      img: "/manager2.png",
       name: "Kepala Dusun Tegalrejo",
       text: "Undang-Undang Nomor 6 Tahun 2014 tentang Desa.",
       moreText:
@@ -70,7 +70,7 @@ function ManagerList() {
     {
       id: 7,
       classGroup: "row",
-      img: "public/manager3.png",
+      img: "/manager3.png",
       name: "Ketua RW 08",
       text: "Peraturan Menteri Dalam Negeri Nomor 18 Tahun 2018 tentang Lembaga Kemasyarakatan Desa dan Lembaga Adat Desa.",
       moreText:
@@ -81,22 +81,22 @@ function ManagerList() {
   const data2 = [
     {
       id: 1,
-      img: "public/manager.png",
+      img: "/manager.png",
       name: "Ketua RT 01",
     },
     {
       id: 2,
-      img: "public/manager2.png",
+      img: "/manager2.png",
       name: "Ketua RT 02",
     },
     {
       id: 3,
-      img: "public/manager3.png",
+      img: "/manager3.png",
       name: "Ketua RT 03",
     },
     {
       id: 4,
-      img: "public/manager4.png",
+      img: "/manager4.png",
       name: "Ketua RT 04",
     },
   ];

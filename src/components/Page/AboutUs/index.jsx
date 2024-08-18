@@ -18,7 +18,7 @@ function AboutUs() {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/people.png" />
+            <Image iLink="/people.png" />
           </span>
         </div>
         <div
@@ -29,7 +29,7 @@ function AboutUs() {
         >
           <Heading.Two title="Koordinat Dusun Tegalrejo" />
           <Heading.Three title="7° 47' 46&quot; LS 110° 38' 28&quot; BT" />
-          <Image iLink="public/dusun3d.png" />
+          <Image iLink="/dusun3d.png" />
           <Paragraf sentence="Dusun Tegalrejo, Kelurahan Tegalrejo, Kecamatan Gedangsari, Kabupaten Gunungkidul, Provinsi Daerah Istimewa Yogyakarta, Indonesia" />
         </div>
         <div

@@ -110,16 +110,16 @@ function Two() {
   const slideRef = useRef(null);
 
   const images = [
-    { id: 1, url: "public/kumpulan-rt2.jpg" },
-    { id: 2, url: "public/senam2.jpg" },
-    { id: 3, url: "public/pemudadi3.jpg" },
-    { id: 4, url: "public/174.jpg" },
-    { id: 5, url: "public/tpa2.jpg" },
-    { id: 6, url: "public/voli3.jpg" },
-    { id: 7, url: "public/pkk4.jpg" },
-    { id: 8, url: "public/posyandu2.jpg" },
-    { id: 9, url: "public/kerjabakti3.jpg" },
-    { id: 10, url: "public/dasawisma4.jpg" },
+    { id: 1, url: "/kumpulan-rt2.jpg" },
+    { id: 2, url: "/senam2.jpg" },
+    { id: 3, url: "/pemudadi3.jpg" },
+    { id: 4, url: "/174.jpg" },
+    { id: 5, url: "/tpa2.jpg" },
+    { id: 6, url: "/voli3.jpg" },
+    { id: 7, url: "/pkk4.jpg" },
+    { id: 8, url: "/posyandu2.jpg" },
+    { id: 9, url: "/kerjabakti3.jpg" },
+    { id: 10, url: "/dasawisma4.jpg" },
   ];
 
   // Menggandakan list gambar untuk efek looping

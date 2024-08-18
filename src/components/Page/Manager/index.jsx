@@ -18,7 +18,7 @@ function Manager() {
             data-aos-duration="1500"
             data-aos-once="true"
           >
-            <Image iLink="public/people5.png" />
+            <Image iLink="/people5.png" />
           </div>
         </div>
         <div
