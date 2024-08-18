@@ -14,7 +14,7 @@ function Manager() {
         <div className="item item-1">
           <div
             className="row"
-            data-aos="fade-down"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -23,7 +23,7 @@ function Manager() {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-right"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -40,7 +40,7 @@ function Manager() {
         </div>
         <div
           className="item item-4"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >

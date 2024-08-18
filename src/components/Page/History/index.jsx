@@ -30,11 +30,29 @@ function History() {
       <Header />
       <section id="history" className="history">
         <div className="item item-1">
-          <Image iLink="/people3.png" />
+          <span
+            data-aos="zoom-up"
+            data-aos-duration="1500"
+            data-aos-once="true"
+          >
+            <Image iLink="/people3.png" />
+          </span>
         </div>
         <div className="item item-2">
-          <Heading.Two title="Fasilitas Dusun Tegalrejo" />
-          <Paragraf sentence="Dusun Tegalrejo dilengkapi dengan berbagai fasilitas yang mendukung kehidupan warganya. Terdapat tempat ibadah sebagai pusat kegiatan keagamaan, kantor lurah untuk pelayanan administratif dan masyarakat, serta berbagai tempat umum lainnya seperti balai pertemuan dan lapangan olahraga yang sering digunakan untuk kegiatan sosial dan rekreasi. Fasilitas-fasilitas ini menjadi pusat interaksi dan kegiatan masyarakat, menjadikan Dusun Tegalrejo sebagai lingkungan yang harmonis dan terpadu." />
+          <span
+            data-aos="zoom-up"
+            data-aos-duration="1500"
+            data-aos-once="true"
+          >
+            <Heading.Two title="Fasilitas Dusun Tegalrejo" />
+          </span>
+          <span
+            data-aos="zoom-up"
+            data-aos-duration="1500"
+            data-aos-once="true"
+          >
+            <Paragraf sentence="Dusun Tegalrejo dilengkapi dengan berbagai fasilitas yang mendukung kehidupan warganya. Terdapat tempat ibadah sebagai pusat kegiatan keagamaan, kantor lurah untuk pelayanan administratif dan masyarakat, serta berbagai tempat umum lainnya seperti balai pertemuan dan lapangan olahraga yang sering digunakan untuk kegiatan sosial dan rekreasi. Fasilitas-fasilitas ini menjadi pusat interaksi dan kegiatan masyarakat, menjadikan Dusun Tegalrejo sebagai lingkungan yang harmonis dan terpadu." />
+          </span>
         </div>
         <div className="item item-3">
           <Series />
@@ -55,7 +73,13 @@ function History() {
           </span>
         </div>
         <div className="item item-5">
-          <Paragraf sentence="Dusun Tegalrejo telah berkembang melalui beberapa generasi, membawa warisan kaya akan budaya dan tradisi yang tetap terjaga. Setiap generasi berkontribusi dalam membangun dusun ini, menjaga keharmonisan dan kebersamaan yang menjadi ciri khas Tegalrejo. Dengan semangat yang terus hidup, harapan besar untuk masa depan yang lebih cerah dan makmur terletak di pundak generasi berikutnya, yang siap melanjutkan perjuangan dan inovasi untuk kemajuan bersama." />
+          <span
+            data-aos="zoom-up"
+            data-aos-duration="1500"
+            data-aos-once="true"
+          >
+            <Paragraf sentence="Dusun Tegalrejo telah berkembang melalui beberapa generasi, membawa warisan kaya akan budaya dan tradisi yang tetap terjaga. Setiap generasi berkontribusi dalam membangun dusun ini, menjaga keharmonisan dan kebersamaan yang menjadi ciri khas Tegalrejo. Dengan semangat yang terus hidup, harapan besar untuk masa depan yang lebih cerah dan makmur terletak di pundak generasi berikutnya, yang siap melanjutkan perjuangan dan inovasi untuk kemajuan bersama." />
+          </span>
         </div>
       </section>
       <Footer />

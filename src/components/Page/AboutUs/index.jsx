@@ -14,7 +14,7 @@ function AboutUs() {
       <section id="aboutUs" className="aboutUs">
         <div className="item item-1">
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -23,7 +23,7 @@ function AboutUs() {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-up"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -34,7 +34,7 @@ function AboutUs() {
         </div>
         <div
           className="item item-3"
-          data-aos="fade-up"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >

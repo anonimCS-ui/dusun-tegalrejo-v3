@@ -12,7 +12,7 @@ const Overview = () => {
       <div className="row">
         <div
           className="col col-1"
-          data-aos="fade-right"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -28,7 +28,7 @@ const Overview = () => {
         </div>
         <div
           className="col col-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-delay="500"
           data-aos-once="true"

@@ -19,7 +19,7 @@ const Main = function () {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -36,7 +36,7 @@ const Main = function () {
         </div>
         <div
           className="item item-4"
-          data-aos="fade-right"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -77,7 +77,7 @@ const VolleyBall = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -94,7 +94,7 @@ const VolleyBall = () => {
           </span>
           <Heading.Two title="Bermain Bola Voli" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -107,7 +107,7 @@ const VolleyBall = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -153,7 +153,7 @@ const DoingTPA = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -170,7 +170,7 @@ const DoingTPA = () => {
           </span>
           <Heading.Two title="Pelaksanaan TPA" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -183,7 +183,7 @@ const DoingTPA = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -229,7 +229,7 @@ const GatheringPKK = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -246,7 +246,7 @@ const GatheringPKK = () => {
           </span>
           <Heading.Two title="Kumpulan PKK" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -259,7 +259,7 @@ const GatheringPKK = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -306,7 +306,7 @@ const GatheringRT = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -323,7 +323,7 @@ const GatheringRT = () => {
           </span>
           <Heading.Two title="Kumpulan RT" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -336,7 +336,7 @@ const GatheringRT = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -383,7 +383,7 @@ const GatheringYoungest = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -400,7 +400,7 @@ const GatheringYoungest = () => {
           </span>
           <Heading.Two title="Kumpulan Pemuda-Pemudi" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -413,7 +413,7 @@ const GatheringYoungest = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -459,7 +459,7 @@ const Gymnastics = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -476,7 +476,7 @@ const Gymnastics = () => {
           </span>
           <Heading.Two title="Senam Bersama" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -489,7 +489,7 @@ const Gymnastics = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -536,7 +536,7 @@ const Posyandu = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -553,7 +553,7 @@ const Posyandu = () => {
           </span>
           <Heading.Two title="Posyandu" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -566,7 +566,7 @@ const Posyandu = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -612,7 +612,7 @@ const Dasawisma = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -629,7 +629,7 @@ const Dasawisma = () => {
           </span>
           <Heading.Two title="Dasawisma" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -642,7 +642,7 @@ const Dasawisma = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -690,7 +690,7 @@ const KerjaBakti = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -707,7 +707,7 @@ const KerjaBakti = () => {
           </span>
           <Heading.Two title="Kerja Bakti" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -720,7 +720,7 @@ const KerjaBakti = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -766,7 +766,7 @@ const Lomba17Agustus = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -783,7 +783,7 @@ const Lomba17Agustus = () => {
           </span>
           <Heading.Two title="Lomba 17 Agustus" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -796,7 +796,7 @@ const Lomba17Agustus = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -847,7 +847,7 @@ const Tirakatan = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -864,7 +864,7 @@ const Tirakatan = () => {
           </span>
           <Heading.Two title="Malam Tirakatan" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -877,7 +877,7 @@ const Tirakatan = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -923,7 +923,7 @@ const Karawitan = () => {
         </div>
         <div
           className="item item-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="true"
         >
@@ -940,7 +940,7 @@ const Karawitan = () => {
           </span>
           <Heading.Two title="Malam Tirakatan" />
           <span
-            data-aos="fade-right"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >
@@ -953,7 +953,7 @@ const Karawitan = () => {
           </div>
           <div
             className="sentences"
-            data-aos="fade-left"
+            data-aos="zoom-in"
             data-aos-duration="1500"
             data-aos-once="true"
           >

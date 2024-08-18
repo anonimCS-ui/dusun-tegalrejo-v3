@@ -15,7 +15,7 @@ function One() {
       <div className="row">
         <div
           className="col col-1"
-          data-aos="fade-right"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-delay="0"
           data-aos-once="true"
@@ -25,7 +25,7 @@ function One() {
         </div>
         <div
           className="col col-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-delay="500"
           data-aos-once="true"
@@ -43,7 +43,7 @@ function Two() {
       <div className="row">
         <div
           className="col col-1"
-          data-aos="fade-right"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-delay="0"
           data-aos-once="true"
@@ -52,7 +52,7 @@ function Two() {
         </div>
         <div
           className="col col-2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-delay="500"
           data-aos-once="true"

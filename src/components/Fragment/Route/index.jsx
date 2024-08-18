@@ -4,7 +4,12 @@ import Anchor from "../../Element/Anchor";
 const Route = function () {
   return (
     <>
-      <div className="col">
+      <div
+        className="col"
+        data-aos="zoom-in"
+        data-aos-duration="1500"
+        data-aos-once="true"
+      >
         <Anchor
           aLink="https://www.google.com/maps/place/Tegalrejo,+Kec.+Gedang+Sari,+Kabupaten+Gunung+Kidul,+Daerah+Istimewa+Yogyakarta/@-7.8130735,110.6200084,14z/data=!3m1!4b1!4m6!3m5!1s0x2e7a48c2aacc8d5b:0x46e7be0babac3368!8m2!3d-7.8076343!4d110.6466895!16s%2Fg%2F122x846h?entry=ttu"
           aText="Lihat Lokasi"

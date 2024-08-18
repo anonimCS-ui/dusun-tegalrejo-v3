@@ -1257,6 +1257,11 @@ footer h3:hover {
     gap: 2rem;
   }
 
+  .home .item-1 .slideShow .slides .slide .row .col-2 img {
+    width: 350px;
+    height: 350px;
+  }
+
   .home .item-1 .slideShow .controller {
     width: 100%;
   }
@@ -1349,6 +1354,11 @@ footer h3:hover {
   /* HISTORY CLOSE */
 
   /* MANAGER OPEN */
+
+  .manager .item-1 .row img {
+    width: 300px;
+    height: 300px;
+  }
 
   .manager .item-3 .line {
     height: 82%;
